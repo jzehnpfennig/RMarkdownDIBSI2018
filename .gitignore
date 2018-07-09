@@ -1,8 +1,6 @@
 data/
 *.fasta
 *.fasaq
-*.vcf
-.DStore
 *swp
 .ipynb_checkpoints
 *.pyc
